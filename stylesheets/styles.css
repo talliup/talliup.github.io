@@ -115,6 +115,24 @@ audio:not([controls]) {
   display: none;
 }
 
+/* ===========================================================================
+   SVB
+   ===========================================================================
+*/
+
+.test {
+  background-color: green;
+  height: 400px;
+}
+
+
+
+
+
+
+
+
+
 /* =============================================================================
    Base
    ========================================================================== */
@@ -543,14 +561,13 @@ body {
   font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f0e7d5;
   font-weight: normal;
-  /* background: #252525; */
+  background: #252525;
   background-attachment: fixed !important;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #2a2a29), color-stop(100%, #1c1c1c));
   background: -webkit-linear-gradient(#2a2a29, #1c1c1c);
   background: -moz-linear-gradient(#2a2a29, #1c1c1c);
   background: -o-linear-gradient(#2a2a29, #1c1c1c);
   background: linear-gradient(#2a2a29, #1c1c1c);
-  background-image: https://dl.dropboxusercontent.com/u/14120514/Hosted%20Images/talli_grab.png;
 
 }
 
@@ -859,13 +876,6 @@ section #title .credits.right {
     padding: 10px;
     width: 100%;
   }
-
-
-.landing-hero {
-  background-image: https://dl.dropboxusercontent.com/u/14120514/Hosted%20Images/talli_grab.png;
-}
-
-
 
 
 
