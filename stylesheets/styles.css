@@ -120,23 +120,6 @@ audio:not([controls]) {
    ===========================================================================
 */
 
-.test {
-  background-color: green;
-  height: 400px;
-  width: 900px;
-  margin: 0 auto;
-  position: relative;
-  padding: 0 20px;
-}
-
-.landing-hero {
-  background-image: http://eventbrite-s3.s3.amazonaws.com/marketing/brandpages/blue_gradient.jpg;
-  width: 900px;
-}
-
-
-
-
 
 
 
@@ -570,7 +553,7 @@ body {
   font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f0e7d5;
   font-weight: normal;
-  background: #252525;
+  background: #FFFFFF;
   background-attachment: fixed !important;
   background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #2a2a29), color-stop(100%, #1c1c1c));
   background: -webkit-linear-gradient(#2a2a29, #1c1c1c);
@@ -641,7 +624,7 @@ strong {
 }
 
 .wrapper {
-  max-width: 900px;
+  max-width: 650px;
   margin: 0 auto;
   position: relative;
   padding: 0 20px;
@@ -805,6 +788,14 @@ dt {
   margin-right: 10px;
   font-size: 11px;
 }
+
+
+
+#landing-hero {
+  background: url(../images/nav-bg.gif) #353535;
+}
+
+
 
 section {
   max-width: 650px;
