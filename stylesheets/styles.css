@@ -795,11 +795,9 @@ dt {
   background-color: #fff;
   background: url(../images/talli_grab_large.png);
   background-repeat: no-repeat;
-  background-attachment: fixed;
-  
+  /* background-attachment: fixed; */
+  height: 617px;
 }
-
-
 
 section {
   max-width: 1080px;
