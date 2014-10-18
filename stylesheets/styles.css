@@ -123,6 +123,14 @@ audio:not([controls]) {
 .test {
   background-color: green;
   height: 400px;
+  max-width: 900px;
+  margin: 0 auto;
+  position: relative;
+  padding: 0 20px;
+}
+
+.landing-hero {
+  background-image: https://dl.dropboxusercontent.com/u/14120514/Hosted%20Images/talli_grab.png;
 }
 
 
