@@ -793,11 +793,19 @@ dt {
 
 
 #landing-hero {
+  width: 100%;
+  height: 799px;
   background-color: #fff;
-  background: url(../images/talli_grab_Xlarge.png);
+  background: url(../images/talli_grab_Xlarge.png) no-repeat center center;
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
-  height: 617px;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  background-size:cover;
+/*  filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/bg-hero.jpg',sizingMethod='scale');
+  -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/bg-hero.jpg',sizingMethod='scale')";  */
+  background-position:center center;
+  position:relative
 }
 
 #value-prop {
