@@ -840,6 +840,7 @@ dt {
     width:75.05%
 }
 
+
 .column.two-thirds {
     width:66.7%
 }
@@ -854,6 +855,14 @@ dt {
 
 .column.fourth {
     width:24.95%
+}
+
+.column.sixty {
+  width: 60%;
+}
+
+.column.fourty {
+  width: 40%;
 }
 
 .column.flow-opposite {
