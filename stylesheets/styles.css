@@ -807,15 +807,21 @@ dt {
 
 
 #sign-up {
-  height: 617px;1
+  height: 617px;
   background: url(../images/dots.png);
   background-repeat: repeat;
 
 }
 
-.column-half {
+.column-half-left {
   width: 50%;
-  height: 100%;
+  float: left;
+}
+
+
+.column-half-right {
+  width: 50%;
+  float: right;
 }
 
 
