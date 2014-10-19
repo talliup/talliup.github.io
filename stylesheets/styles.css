@@ -807,7 +807,7 @@ dt {
 
 
 #sign-up {
-  height: 617px;
+  height: 617px;1
   background: url(../images/dots.png);
   background-repeat: repeat;
 
@@ -815,6 +815,7 @@ dt {
 
 .column-half {
   width: 50%;
+  height: 100%;
 }
 
 
@@ -824,9 +825,9 @@ dt {
 
 section {
   max-width: 1080px;
-  padding: 30px 0px 50px 0px;
+/*  padding: 30px 0px 50px 0px;
   margin: 20px 0;
-  margin-top: 70px;
+  margin-top: 70px;  */
 }
 section #title {
   border: 0;
