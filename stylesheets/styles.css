@@ -711,8 +711,8 @@ dt {
   height: 65px;
   width: 100%;
   position: fixed;
-/*  background-color: black; */
-  background: url(../images/dots.png);
+  background-color: black;
+/*  background: url(../images/dots.png);  */
 /*  background: url(../images/nav-bg.gif) #353535;  */
   border-bottom: 4px solid #434343;
   -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
@@ -808,7 +808,7 @@ dt {
 
 #sign-up {
   height: 617px;
-  background: url(../images/dots.png);
+  background: url(../images/dot.png);
   background-repeat: repeat;
 
 }
