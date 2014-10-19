@@ -821,17 +821,20 @@ dt {
 
 }
 
-.column-half-left {
+.column-half {
   width: 50%;
   float: left;
+  height: 617px;
+  display: block;
 }
 
-
+/*
 .column-half-right {
   width: 50%;
   float: right;
+  height: 617px;
 }
-
+*/
 
 
 
