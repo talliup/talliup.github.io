@@ -807,11 +807,11 @@ dt {
 
 
 #sign-up {
+  height: 617px;
   background: url(../images/dots.png);
   background-repeat: repeat;
-  height: 617px;
-}
 
+}
 
 .column-half {
   width: 50%;
