@@ -821,21 +821,44 @@ dt {
 
 }
 
-.column-half {
-  width: 50%;
-  float: left;
-  height: 617px;
-  display: block;
+
+.column {
+    float:left;
+    margin:0;
+    padding-left:1rem;
+    padding-right:1rem;
+    position:relative
 }
 
-/*
-.column-half-right {
-  width: 50%;
-  float: right;
-  height: 617px;
+.column.full {
+    width:100%
 }
-*/
 
+
+.column.three-fourths {
+    width:75.05%
+}
+
+.column.two-thirds {
+    width:66.7%
+}
+
+.column.half {
+    width:50%
+}
+
+.column.third {
+    width:33.3%
+}
+
+.column.fourth {
+    width:24.95%
+}
+
+.column.flow-opposite {
+    float:right
+}
+}
 
 
 
