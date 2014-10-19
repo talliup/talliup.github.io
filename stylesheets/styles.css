@@ -794,7 +794,7 @@ dt {
 
 #landing-hero {
   background-color: #fff;
-  background: url(../images/talli_grab_large.png);
+  background: url(../images/talli_grab_Xlarge.png);
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
   height: 617px;
@@ -830,7 +830,7 @@ dt {
 
 
 section {
-  max-width: 1080px;
+  max-width: 100%;
 /*  padding: 30px 0px 50px 0px;
   margin: 20px 0;
   margin-top: 70px;  */
