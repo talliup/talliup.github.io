@@ -809,7 +809,7 @@ dt {
 }
 
 #value-prop {
-  height: 617px;
+  height: 400px;
   background-color: white;
 }
 
@@ -834,7 +834,6 @@ dt {
     width:100%
 }
 
-
 .column.three-fourths {
     width:75.05%
 }
@@ -858,8 +857,10 @@ dt {
 .column.flow-opposite {
     float:right
 }
-}
 
+.column.spaced {
+  margin: 1.5rem;
+}
 
 
 
