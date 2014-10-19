@@ -115,12 +115,6 @@ audio:not([controls]) {
   display: none;
 }
 
-/* ===========================================================================
-   SVB
-   ===========================================================================
-*/
-
-
 
 
 
@@ -792,6 +786,12 @@ dt {
 }
 
 
+/* ===========================================================================
+   SVB
+   ===========================================================================
+*/
+
+
 #landing-hero {
   background-color: #fff;
   background: url(../images/talli_grab_large.png);
@@ -800,17 +800,25 @@ dt {
   height: 617px;
 }
 
-#value-prop-section {
+#value-prop {
   height: 617px;
   background-color: white;
 }
 
-# sign-up-sectoin {
+
+#sign-up {
   background: url(../images/dots.png);
   background-repeat: repeat;
+  height: 617px;
 }
 
-  
+
+.column-half {
+  width: 50%;
+}
+
+
+
 
 
 
