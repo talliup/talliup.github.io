@@ -916,6 +916,11 @@ dt {
   z-index: 5;
 }
 
+.button-text {
+  text-align: center;
+}
+
+
 .centered {
   display: block;
   margin:0 auto;
