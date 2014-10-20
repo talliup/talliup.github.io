@@ -796,7 +796,7 @@ dt {
   width: 100%;
   height: 799px;
   background-color: #fff;
-  background: url(../images/talli_grab_Xlarge.png) no-repeat center center;
+  background: url(../images/hero.jpg) no-repeat center center;
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
   -webkit-background-size:cover;
@@ -821,6 +821,12 @@ dt {
 
 }
 
+
+.container {
+    margin:0 auto;
+    max-width:75rem;
+    width:90%
+}
 
 .column {
     float:left;
@@ -880,7 +886,7 @@ dt {
 
 
 .right-padded {
-  margin-left: 25%;
+  margin-left: 5%;
   margin-top: 5%;
   margin-right: 25%;
   margin-bottom: 5%;
