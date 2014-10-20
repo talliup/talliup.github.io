@@ -849,6 +849,10 @@ dt {
 }
 
 
+.center{
+  margin: auto;
+}
+
 .container {
     margin:0 auto;
     max-width:75rem;
