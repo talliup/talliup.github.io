@@ -878,15 +878,16 @@ dt {
   padding-top: 1.5rem;
 /*  font-variant: small-caps; */
   line-height: 1.33;
+
 }
 
 #landing-title {
-    width: 66%;  /* UPDATE THIS FOR MOBIE WITH @MEDIA */
+  width: 66%;  /* UPDATE THIS FOR MOBIE WITH @MEDIA */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.h3.plus {
-  font-size: 20px;
-}
 
 
 #company-title {
