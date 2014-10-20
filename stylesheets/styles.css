@@ -852,7 +852,10 @@ dt {
 .hero-logo{
   margin-top: 180px;
   z-index: 5;
-  position: relative;  
+  position: relative; 
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 
 }
 
