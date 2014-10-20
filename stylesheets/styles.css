@@ -906,6 +906,7 @@ dt {
 }
 
 .sign-up-button {
+  margin-top: 50px;
   border-radius: 4px;
   width: 240px;
   height: 60px;
