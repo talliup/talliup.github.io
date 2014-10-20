@@ -893,13 +893,15 @@ dt {
 
 
 .sign-up-button {
+
+  margin-top: 80px;
   border-radius: 4px;
   width: 220px;
   height: 50px;
   background-color: #D3EBD7;
   color: #4FA73D;
   text-align: center;
-  margin-top: 40px;
+
   z-index: 5;
   position: relative; 
   display: block;
