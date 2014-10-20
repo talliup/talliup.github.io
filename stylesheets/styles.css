@@ -878,6 +878,9 @@ dt {
 }
 
 
+.hero-title h1 {
+  font-size: 50px;
+}
 
 .container {
     margin:0 auto;
