@@ -883,6 +883,7 @@ dt {
 
 
 #hero-container {
+  margin:0 auto;
   width: 75%; 
 }
 
@@ -902,8 +903,7 @@ dt {
   z-index: 5;
   position: relative; 
   display: block;
-  margin-right: auto;
-  margin-left: auto;
+  margin:0 auto;
   display: table-cell;
   vertical-align: middle;
 }
