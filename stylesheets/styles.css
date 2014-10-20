@@ -862,6 +862,13 @@ dt {
 }
 
 
+.hero-title {
+  line-height: 2;
+  text-align: center;
+}
+
+
+
 .container {
     margin:0 auto;
     max-width:75rem;
