@@ -849,6 +849,12 @@ dt {
 }
 
 
+.row {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+
+
 .hero-logo{
   margin-top: 180px;
   z-index: 5;
