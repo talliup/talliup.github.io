@@ -865,6 +865,7 @@ dt {
 
 }
 
+
 @media only screen and (max-width: 479px) {
 .hero-logo {
   margin-top: 50px;}
@@ -889,6 +890,16 @@ dt {
 #company-title {
   font-size: 34px;
 }
+
+
+.sign-up-button {
+  border-radius: 3px;
+  width: 180px;
+  height: 40px;
+  background-color: gray;
+  color: black;
+}
+
 
 .container {
     margin:0 auto;
