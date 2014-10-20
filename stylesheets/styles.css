@@ -893,7 +893,6 @@ dt {
 
 
 .sign-up-button {
-
   margin-top: 80px;
   border-radius: 4px;
   width: 220px;
@@ -901,14 +900,22 @@ dt {
   background-color: #D3EBD7;
   color: #4FA73D;
   text-align: center;
-
   z-index: 5;
   position: relative; 
+}
+
+.centered {
   display: block;
   margin:0 auto;
-  display: table-cell;
-  vertical-align: middle;
+
 }
+  
+.v-align-text {
+  display: table-cell;
+  vertical-align: middle;  
+}
+
+
 
 /*
     display: flex;
