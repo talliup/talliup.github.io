@@ -887,16 +887,23 @@ dt {
   width: 75%; 
 }
 
+
+#hero-description {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+
 #company-title {
   font-size: 34px;
 }
 
-.button-wrapprer{
-  margin-top: 55px;
+
+#button-wrapper {
+  margin-top: 75px;
 }
 
 .sign-up-button {
-  margin-top: 55px;
   border-radius: 4px;
   width: 220px;
   height: 50px;
