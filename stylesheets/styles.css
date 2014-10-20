@@ -877,6 +877,8 @@ dt {
   font-size: 4.5em;
   padding-top: 1.5rem;
 /*  font-variant: small-caps; */
+  width: 60%;  /* UPDATE THIS FOR MOBIE WITH @MEDIA */
+  line-height: 1.33;
 }
 
 
