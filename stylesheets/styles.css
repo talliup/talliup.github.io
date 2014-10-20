@@ -881,14 +881,10 @@ dt {
 
 }
 
-#landing-title {
-  width: 66%;  /* UPDATE THIS FOR MOBIE WITH @MEDIA */
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+
+#hero-container {
+  width: 75%; 
 }
-
-
 
 #company-title {
   font-size: 34px;
