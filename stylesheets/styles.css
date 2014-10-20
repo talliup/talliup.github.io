@@ -891,9 +891,12 @@ dt {
   font-size: 34px;
 }
 
+.button-wrapprer{
+  margin-top: 55px;
+}
 
 .sign-up-button {
-  margin-top: 80px;
+  margin-top: 55px;
   border-radius: 4px;
   width: 220px;
   height: 50px;
