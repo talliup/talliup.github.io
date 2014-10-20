@@ -862,7 +862,6 @@ dt {
   display: block;
   margin-right: auto;
   margin-left: auto;
-
 }
 
 
@@ -893,11 +892,19 @@ dt {
 
 
 .sign-up-button {
-  border-radius: 3px;
-  width: 180px;
-  height: 40px;
-  background-color: gray;
-  color: black;
+  border-radius: 4px;
+  width: 220px;
+  height: 50px;
+  background-color: #D3EBD7;
+  color: #A7D3AF;
+
+  margin-top: 40px;
+  z-index: 5;
+  position: relative; 
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+
 }
 
 
